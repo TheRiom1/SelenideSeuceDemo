@@ -1,0 +1,16 @@
+# Ignoruj pliki klasy .class w całym projekcie
+*.class
+
+# Ignoruj katalog "target"
+target/
+
+# Ignoruj pliki z rozszerzeniem .log
+*.log
+
+# Ignoruj pliki IDE
+.idea/
+.vscode/
+
+# Ignoruj plik konfiguracyjny dla Maven
+mvnw
+mvnw.cmd
